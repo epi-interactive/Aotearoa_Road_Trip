@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315" height="89" viewBox="0 0 315 89">
+  <defs>
+    <filter id="Rectangle_12" x="0" y="0" width="315" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_37" data-name="Group 37" transform="translate(-281 -567)">
+    <g transform="matrix(1, 0, 0, 1, 281, 567)" filter="url(#Rectangle_12)">
+      <g id="Rectangle_12-2" data-name="Rectangle 12" transform="translate(9 6)" fill="#066710" stroke="#fff" stroke-width="7">
+        <rect width="297" height="71" rx="15" stroke="none"/>
+        <rect x="3.5" y="3.5" width="290" height="64" rx="11.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Hit_the_road_" data-name="Hit the road!" transform="translate(400 619)" fill="#fff" font-size="30" font-family="Cabin-Bold, Cabin" font-weight="700"><tspan x="-80.625" y="0">Hit the road!</tspan></text>
+    <g id="arrow-right" transform="translate(504.5 584.377)">
+      <path id="Path_41" data-name="Path 41" d="M23.087,10.711a2,2,0,0,1,2.831,0l12,12a2,2,0,0,1,0,2.831l-12,12a2,2,0,1,1-2.831-2.831L33.671,24.123,23.085,13.541a2,2,0,0,1,0-2.831Z" transform="translate(13.991 0)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_42" data-name="Path 42" d="M4.5,18.875a2,2,0,0,1,2-2H48.49a2,2,0,1,1,0,4H6.5A2,2,0,0,1,4.5,18.875Z" transform="translate(0 5.249)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

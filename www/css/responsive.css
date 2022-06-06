@@ -1,0 +1,276 @@
+@media screen and (max-width: 1800px) {
+
+  .postcard-container {
+    width: 75%;
+  }
+  
+  .postcard-text {
+      font-size: 11px;
+      line-height: 15px;
+  }
+  
+  .postcard-lines {
+    min-height: 70px;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+
+  .postcard-container {
+    width: 100%;
+  }
+  
+  .postcard-text {
+      font-size: 13px;
+      line-height: 15px;
+  }
+  
+  .postcard-lines {
+    min-height: 70px;
+  }
+}
+
+
+
+@media screen and (max-width: 1200px) {
+  
+  .splash-background-additions {
+    background-image: URL("../img/grass.svg");
+    min-height: 25%;
+    height: 50%;
+    background-position: bottom left;
+  }
+  
+  .postcard-container {
+    width: 100%;
+    flex-direction: column-reverse;
+    padding-top: 0px;
+  }
+  
+  .postcard-back .postcard-sizing {
+    height: auto;
+    padding-bottom: 0;
+  }
+  
+  .postcard-back .postcard-sizing .postcard-details {
+    display: none;
+  }
+  
+  .postcard-text {
+    font-size: 20px;
+    line-height: 22.5px;
+  }
+  
+  /*.postcard-text {
+      font-size: 12px;
+      line-height: 12.5px;
+  }*/
+  
+  .page-content-container {
+    margin: 0 100px;
+  }
+  
+  .page-content-container > .row, .page-content-container > .row > [class*=col-] {
+    height: 70%;
+  }
+  
+  header {
+    padding: 10px 0;
+    min-height: 0;
+  }
+  
+  .postcard-front {
+    transform: rotate(0deg);
+    margin-bottom: 10px;
+  }
+
+  
+  .postcard-lines {
+    min-height: 0px;
+  }
+  
+  .postcard-details img {
+    width: 0;
+    height: 0;
+  }
+
+  #router-page-wrapper {
+    height:100%;
+  }
+  
+  .map-controls-container {
+    padding-top: 0;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 1250px) and (orientation: portrait) {
+  .splash-background-car-mobile {
+    visibility: hidden;
+    /*background-image: URL("../img/CarGif_Mobile.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 50%;
+    width: 75%;
+    bottom: 0%;
+    right: 0%;
+    position: absolute;*/
+  }
+  
+  .map-container {
+    height: 45vh;
+  }
+  
+  .router {
+    height: 100%;
+  }
+    
+}
+
+@media screen and (max-width: 992px) {
+  
+  .router {
+    height: 100%;
+  }
+
+  header .header-item #title {
+    height: 60px;
+  }
+  
+  header .header-item #epi-logo {
+    height: 25px;
+  }
+  
+  header .header-item span.header-tag {
+    font-size: 20px;
+    line-height: 21px;
+  }
+
+  .postcard-container {
+    width: 85%;
+  }
+  
+  /*.postcard-text {
+      font-size: 11.5px;
+      line-height: 12px;
+  }*/
+  
+  .postcard-lines {
+    min-height: 35px;
+  }
+  
+  .page-content-container {
+    margin: 0 30px;
+  }
+  
+  .splash-background-car-mobile {
+      visibility: hidden;
+  }
+}
+
+@media screen and (max-width: 768px) { 
+  
+  .map-container {
+    height: 45vh;
+  }
+  
+  .background-container {
+    overflow: scroll;
+  }
+  
+  header {
+    padding: 5px 0;
+  }
+  
+  header .header-content-container {
+    flex-direction: column;
+    padding-top: 0px;
+  }
+ 
+  header .header-item #title {
+    height: 30px;
+  }
+  
+  header .header-item #epi-logo {
+    height: 20px;
+  }
+  
+  header .header-item span.header-tag {
+    font-size: 17px;
+    line-height: 17px;
+  }
+  
+  .postcard-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .postcard-front {
+    transform: rotate(0deg);
+    margin-bottom: 10px;
+  }
+  
+  /*.postcard-text {
+      font-size: 10px;
+      line-height: 10.5px;
+  }*/
+  
+  .postcard-lines {
+    min-height: 0px;
+  }
+  
+  .postcard-details img {
+    width: 0;
+    height: 0;
+  }
+  
+  .page-content-container {
+    margin: 0 30px;
+  } 
+  
+  .map-controls-container {
+    margin-top: 0px;
+    /*margin-bottom: 30px;*/
+  }
+  
+  .map-controls-container img {
+    height: 24px;
+  }
+  
+  .map-cross {
+    width: 15px;
+    margin-left: -7.5px;
+    margin-top: -5px;
+  }
+  
+  .splash-route-container img {
+    height: 50px;
+  }
+  
+  .splash-header{
+    font: normal normal normal 68px/73px Pauline;
+    font-size: 40px;
+    line-height: 43px;
+    
+  }
+  
+  .splash-text{
+    font-size: 15px;
+    line-height: 16px;
+  }
+  
+  .splash-background-additions {
+      background-image: URL("../img/grass.svg");
+      min-height: 25%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  
+  .splash-background-car-mobile {
+      visibility: hidden;
+  }
+}

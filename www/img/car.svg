@@ -1,0 +1,42 @@
+<svg id="Group_35" data-name="Group 35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.327" height="125" viewBox="0 0 253.327 125">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="253.327" height="125" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.342" y1="0.171" x2="0.43" y2="0.867" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#84dcf2"/>
+      <stop offset="0.406" stop-color="#01a8d1"/>
+      <stop offset="1" stop-color="#06748e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.65" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b19f9f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.159" y1="-0.049" x2="0.342" y2="0.961" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#c2abab"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a1818"/>
+      <stop offset="1" stop-color="#363333"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#818386"/>
+      <stop offset="1" stop-color="#414243"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="-0.397" y1="0.299" x2="1.559" y2="0.823" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0e1e3"/>
+      <stop offset="1" stop-color="#707172"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_14" data-name="Group 14" clip-path="url(#clip-path)">
+    <path id="Path_9" data-name="Path 9" d="M211.506,19.587s-15.972-9.67-51.2-9.047-47.824,5.934-47.824,5.934l-16.549,31.1L83.605,48.606,42.99,52.014,22.47,53.735,36.357,108l224.541,2.5,9.76-56.806-45.759-9.2Z" transform="translate(-19.122 -8.945)" fill="url(#linear-gradient)"/>
+    <path id="Path_10" data-name="Path 10" d="M597.854,69.95l.5,28.1-49.729.879S562.4,70.577,562.629,70.573l35.224-.623" transform="translate(-466.873 -59.527)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_11" data-name="Path 11" d="M920.734,69.212l.5,28.1,51.8-.916L964.285,70.6Z" transform="translate(-783.538 -58.899)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_12" data-name="Path 12" d="M1245.882,477.46c.261,14.821,10.065,26.665,21.9,26.456s21.209-12.393,20.948-27.214-10.065-26.665-21.9-26.456-21.21,12.393-20.948,27.214" transform="translate(-1060.232 -383.154)" fill="#1a1818"/>
+    <path id="Path_13" data-name="Path 13" d="M1324.331,562.971c.12,6.739,4.577,12.125,9.957,12.029s9.644-5.635,9.525-12.374-4.577-12.125-9.956-12.03-9.645,5.635-9.526,12.374" transform="translate(-1126.994 -468.552)" fill="#818386"/>
+    <path id="Path_14" data-name="Path 14" d="M175.163,496.393c.262,14.82,10.066,26.665,21.9,26.456s21.21-12.393,20.948-27.214-10.066-26.665-21.9-26.456-21.21,12.393-20.948,27.214" transform="translate(-149.057 -399.266)" fill="url(#radial-gradient)"/>
+    <path id="Path_15" data-name="Path 15" d="M253.614,581.9c.119,6.739,4.577,12.125,9.956,12.03s9.644-5.635,9.525-12.374-4.577-12.125-9.956-12.029-9.644,5.635-9.525,12.374" transform="translate(-215.822 -484.664)" fill="url(#radial-gradient-2)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="7.765" height="24.137" transform="translate(1.44 42.619) rotate(-1.013)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
